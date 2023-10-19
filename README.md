@@ -5,7 +5,7 @@ Tools  : Excel, Power BI, Python, SQL
 
 1) Predicting Resturant tips - Regression analysis in [Excel](https://github.com/mw532fin/analysis/blob/489231e3efe0684c392bae21e650e809b6b0bbc7/Excel/Excel002_Predict%20Restaurant%20tips.xlsx) , [Model Report](https://github.com/mw532fin/analysis/blob/aa0f131cdc16f16c4e33133080db124145b7c346/Excel/Excel002_Resturant%20tips.pdf)
    
-3) dgh
+3) [Excel](https://github.com/mw532fin/analysis/blob/42d066494ac891bbcbe0b6ecdd53aad82429dc1e/Excel/Excel_001_E%20Commerce%20Dashboard%20Project.xlsx) Dashboard – E commerce Data – [pdf](https://github.com/mw532fin/analysis/blob/42d066494ac891bbcbe0b6ecdd53aad82429dc1e/Excel/Excel_001_E-Commerce%20Dashboard.pdf)
    
 5) dgh
 
