@@ -9,7 +9,7 @@ Tools  : Excel, Power BI, Python, SQL
    
 5) Financial Modelling using Excel – Power point presentation
    
-   How efficient is Call centre? / Global Expansion / Data Table / solver add ins
+   Use cases : How efficient is Call centre? / Global Expansion of business / Unit price per target profit / Sales report / Descriptive Statistics of Student marks
    
 7) jk
    
