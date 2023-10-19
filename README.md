@@ -7,7 +7,7 @@ Tools  : Excel, Power BI, Python, SQL
    
 3) [Excel](https://github.com/mw532fin/analysis/blob/42d066494ac891bbcbe0b6ecdd53aad82429dc1e/Excel/Excel_001_E%20Commerce%20Dashboard%20Project.xlsx) Dashboard – E commerce Data KPI– [pdf](https://github.com/mw532fin/analysis/blob/42d066494ac891bbcbe0b6ecdd53aad82429dc1e/Excel/Excel_001_E-Commerce%20Dashboard.pdf)
    
-5) Financial Modelling using Excel – Power point
+5) Financial Modelling using Excel – Power point presentation
    
    How efficient is Call centre? / Global Expansion / Data Table / solver add ins
    
