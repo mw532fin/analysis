@@ -14,36 +14,26 @@ Tools  : Excel, Power BI, Python, SQL
 7) COVID19 dashboard on Power BI
 
 9) Library Management System for Stanford (Business analysis, ER diagram, dataflow diagram, wireframes, ...)
-10) Business Analysis using # SQL / Database management
-    prj1 - Retail Mart Management,  prj2 - School Ranking analysis,  prj3 - Air Cargo Data Analysis
-   
+    
+11) Business Analysis using :space_invader: SQL / Database management
+    | SQL Project1            | SQL Project2            | SQL Project3            |
+    | ----------------------- |:-----------------------:| -----------------------:|
+    | Retail Mart Management  | School Ranking analysis | Air Cargo Data Analysis |
+      
 12) Many to one LSTM for sentiment Analysis (classifying movie reviews) and text generation
+    
    Natural Language Processing (NLP), Python packages keras, pandas, numpy, sklearn
     
-13) Credit card Fraud Detection
+14) Credit card Fraud Detection
+    
     Modelling techniques – Nearmiss technique for undersampling data, SMOTE for oversampling, Linear model: Logistic Regression, Ensemble technique: Random Forest, Non Linear Algorithms: Support Vector Machine, Decision Tree and k-Nearest Neighbour
     Python packages : sklearn/imblearn, seaborn, matplotlib
     
-14) dgher`rgb(9, 105, 218)`
+16) dgher`rgb(9, 105, 218)`
     
-15) `rgb(9, 105, 218)`234
+
     
-17) Colons can be used to align columns.
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
     
 19) wer
 
