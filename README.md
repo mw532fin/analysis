@@ -38,8 +38,6 @@ Tools  : Excel, Power BI, Python, SQL
       
     - Feature engineering and fit model using algorithms Naïve Bayes, Random Forest, Decision Tree, Logistic Regression, K Nearest Neighbours
       
-    - Conclude best model be Naïve Bayes to predict Caravan policy
-      
     - Perform market basket analysis to describe Caravan customer using Apriori and Fpgrowth algorithms
       
     - Write separate reports to technical team explaining modeling methodology and to product team (non-technical audience)
