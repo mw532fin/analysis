@@ -1,7 +1,7 @@
 # Data Analysis projects by Manohari Wijesooriya
 Domain : Insurance / Finance / Banking
 
-Tools  : Excel, Power BI, Python, SQL
+Tools  : Excel, Power BI, Python, :space_invader: SQL
 
 1) Predicting Resturant tips - Regression analysis in [Excel](https://github.com/mw532fin/analysis/blob/489231e3efe0684c392bae21e650e809b6b0bbc7/Excel/Excel002_Predict%20Restaurant%20tips.xlsx) , [Model Report](https://github.com/mw532fin/analysis/blob/aa0f131cdc16f16c4e33133080db124145b7c346/Excel/Excel002_Resturant%20tips.pdf)
    
@@ -22,7 +22,7 @@ Tools  : Excel, Power BI, Python, SQL
       
 12) Many to one LSTM for sentiment Analysis (classifying movie reviews) and text generation
     
-   Natural Language Processing (NLP), Python packages keras, pandas, numpy, sklearn
+    Natural Language Processing (NLP), Python packages keras, pandas, numpy, sklearn
     
 14) Credit card Fraud Detection
     
