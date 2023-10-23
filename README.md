@@ -13,7 +13,7 @@ Tools  : Excel, Power BI, Python, SQL
    
 7) COVID19 dashboard on Power BI
 
-9) Library Management System for Stanford (:unicorn: Business analysis, ER diagram, dataflow diagram, wireframes, ...)
+9) [Library Management System for Stanford](https://github.com/mw532fin/analysis/blob/da755f631d0957a78ada89f592835aa6c526a8db/Business%20Analysis/BA_Project1_Stanford_Library.pdf) (:unicorn: Business analysis, ER diagram, dataflow diagram, wireframes, ...)
     
 11) :unicorn: Business Analysis using :space_invader: SQL / Database management
     | SQL Project1            | SQL Project2            | SQL Project3            |
