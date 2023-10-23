@@ -20,7 +20,7 @@ Tools  : Excel, Power BI, Python, SQL
     | ----------------------- |:-----------------------:| -----------------------:|
     | [Retail Mart Management](https://github.com/mw532fin/analysis/blob/1702e379ac69b94c2cbe7ce0132c5c78cd60fb48/SQL/SQL001_Retail_Mart_Management.pdf)  | [School Ranking analysis](https://github.com/mw532fin/analysis/blob/1702e379ac69b94c2cbe7ce0132c5c78cd60fb48/SQL/SQL002_School_Ranking_Analysis.pdf)| [Air Cargo Data Analysis](https://github.com/mw532fin/analysis/blob/1702e379ac69b94c2cbe7ce0132c5c78cd60fb48/SQL/SQL003_Air_Cargo_Data_Analysis%20(1).pdf) |
       
-12) Many to one LSTM for sentiment Analysis (classifying movie reviews) and text generation
+12) [Many to one LSTM for sentiment Analysis](https://github.com/mw532fin/analysis/blob/1b1eec523358090cf725829a5c4d08f21bc40a95/Python/Python_LSTM_Sentiment_anslysis.ipynb) (classifying movie reviews) and text generation
     
     Natural Language Processing (NLP), :shamrock: Python packages keras, pandas, numpy, sklearn
     
