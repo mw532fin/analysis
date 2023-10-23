@@ -34,11 +34,11 @@ Tools  : Excel, Power BI, Python, SQL
     
     - Examine and clean 86 attributes and 5000 records of insurance product and sociodemographic data. [Data Dictionary](https://github.com/mw532fin/analysis/blob/a5dd0709a47e81dfca3d8150d2ab0e81f4b3fefa/Python/TMU_Capstone/Data%20Dictionary.pdf)
       
-    - Perform statistical analysis to understand customer behaviour
+    - Perform statistical analysis to understand customer behaviour. [Exploratory Data Analysis](https://github.com/mw532fin/analysis/blob/aeb1f2778fc6fb547cd8c2e61e17f3322f038140/Python/TMU_Capstone/PY01_Capst_EDA%20(3).ipynb)
       
-    - Feature engineering and fit model using algorithms Naïve Bayes, Random Forest, Decision Tree, Logistic Regression, K Nearest Neighbours
+    - Feature engineering and fit model using algorithms Naïve Bayes, Random Forest, Decision Tree, Logistic Regression, K Nearest Neighbours. [Note book](https://github.com/mw532fin/analysis/blob/aeb1f2778fc6fb547cd8c2e61e17f3322f038140/Python/TMU_Capstone/PY01_Capst_COIL_sklearn_A.ipynb)
       
-    - Perform market basket analysis to describe Caravan customer using Apriori and Fpgrowth algorithms
+    - Perform market basket analysis to describe Caravan customer using Apriori and Fpgrowth algorithms. [Note book](https://github.com/mw532fin/analysis/blob/aeb1f2778fc6fb547cd8c2e61e17f3322f038140/Python/TMU_Capstone/PY01_Capst_COIL_Market_Basket_B.ipynb)
       
     - Write separate reports to technical team explaining modeling methodology and to product team (non-technical audience)
       
