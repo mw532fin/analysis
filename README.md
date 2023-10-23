@@ -11,9 +11,30 @@ Tools  : Excel, Power BI, Python, SQL
    
    Use cases : How efficient is Call centre? / Global Expansion of business / Unit price per target profit / Sales report / Descriptive Statistics of Student marks
    
-7) jk
+7) COVID19 dashboard on Power BI
+
+9) Library Management System for Stanford (Business analysis, ER diagram, dataflow diagram, wireframes, ...)
+10) Business Analysis using # SQL / Database management
+    prj1 - Retail Mart Management,  prj2 - School Ranking analysis,  prj3 - Air Cargo Data Analysis
    
-9) jky
+12) Many to one LSTM for sentiment Analysis (classifying movie reviews) and text generation
+   Natural Language Processing (NLP), Python packages keras, pandas, numpy, sklearn
+    
+13) Credit card Fraud Detection
+    Modelling techniques – Nearmiss technique for undersampling data, SMOTE for oversampling, Linear model: Logistic Regression, Ensemble technique: Random Forest, Non Linear Algorithms: Support Vector Machine, Decision Tree and k-Nearest Neighbour
+    Python packages : sklearn/imblearn, seaborn, matplotlib
+    
+14) dgher
+    
+15) 234
+    
+17) hjh
+    
+19) wer
+
+
+
+
 
 
 
