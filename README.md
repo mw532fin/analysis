@@ -24,9 +24,9 @@ Tools  : Excel, Power BI, Python, SQL
     Modelling techniques – Nearmiss technique for undersampling data, SMOTE for oversampling, Linear model: Logistic Regression, Ensemble technique: Random Forest, Non Linear Algorithms: Support Vector Machine, Decision Tree and k-Nearest Neighbour
     Python packages : sklearn/imblearn, seaborn, matplotlib
     
-14) dgher
+14) dgher`rgb(9, 105, 218)`
     
-15) 234
+15) `rgb(9, 105, 218)`234
     
 17) hjh
     
