@@ -36,9 +36,9 @@ Tools  : Excel, Power BI, Python, SQL
       
     - Perform statistical analysis to understand customer behaviour. [Exploratory Data Analysis](https://github.com/mw532fin/analysis/blob/aeb1f2778fc6fb547cd8c2e61e17f3322f038140/Python/TMU_Capstone/PY01_Capst_EDA%20(3).ipynb)
       
-    - Feature engineering and fit model using algorithms Naïve Bayes, Random Forest, Decision Tree, Logistic Regression, K Nearest Neighbours. [Note book](https://github.com/mw532fin/analysis/blob/aeb1f2778fc6fb547cd8c2e61e17f3322f038140/Python/TMU_Capstone/PY01_Capst_COIL_sklearn_A.ipynb)
+    - [Feature engineering and fit model](https://github.com/mw532fin/analysis/blob/aeb1f2778fc6fb547cd8c2e61e17f3322f038140/Python/TMU_Capstone/PY01_Capst_COIL_sklearn_A.ipynb) using algorithms Naïve Bayes, Random Forest, Decision Tree, Logistic Regression, K Nearest Neighbours. 
       
-    - Perform market basket analysis to describe Caravan customer using Apriori and Fpgrowth algorithms. [Note book](https://github.com/mw532fin/analysis/blob/aeb1f2778fc6fb547cd8c2e61e17f3322f038140/Python/TMU_Capstone/PY01_Capst_COIL_Market_Basket_B.ipynb)
+    - Perform [market basket analysis](https://github.com/mw532fin/analysis/blob/aeb1f2778fc6fb547cd8c2e61e17f3322f038140/Python/TMU_Capstone/PY01_Capst_COIL_Market_Basket_B.ipynb) to describe Caravan customer using Apriori and Fpgrowth algorithms. 
       
     - Write separate reports to technical team explaining modeling methodology and to product team (non-technical audience)
       
