@@ -30,9 +30,9 @@ Tools  : Excel, Power BI, Python, SQL
     
     :shamrock: Python packages : sklearn/imblearn, seaborn, matplotlib
     
-16) Predicting and Explaining Caravan Policy Ownership – Machine learning solution reducing cost of internal marketing
+16) Predicting and Explaining Caravan Policy Ownership – Machine learning solution reducing cost of internal marketing. [Presentation](https://github.com/mw532fin/analysis/blob/aeb1f2778fc6fb547cd8c2e61e17f3322f038140/Python/TMU_Capstone/Project_Presentation.pdf) [Report](https://github.com/mw532fin/analysis/blob/aeb1f2778fc6fb547cd8c2e61e17f3322f038140/Python/TMU_Capstone/Capstone_Project_Report.pdf)
     
-    - Examine and clean 86 attributes and 5000 records of insurance product and sociodemographic data
+    - Examine and clean 86 attributes and 5000 records of insurance product and sociodemographic data. [Data Dictionary](https://github.com/mw532fin/analysis/blob/aeb1f2778fc6fb547cd8c2e61e17f3322f038140/Python/TMU_Capstone/Data_Dictionary%20(2).xlsx)
       
     - Perform statistical analysis to understand customer behaviour
       
