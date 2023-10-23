@@ -13,7 +13,7 @@ Tools  : Excel, Power BI, Python, SQL
    
 7) COVID19 dashboard on Power BI
 
-9) Library Management System for Stanford (Business analysis, ER diagram, dataflow diagram, wireframes, ...)
+9) Library Management System for Stanford (:unicorn: Business analysis, ER diagram, dataflow diagram, wireframes, ...)
     
 11) :unicorn: Business Analysis using :space_invader: SQL / Database management
     | SQL Project1            | SQL Project2            | SQL Project3            |
@@ -22,13 +22,13 @@ Tools  : Excel, Power BI, Python, SQL
       
 12) Many to one LSTM for sentiment Analysis (classifying movie reviews) and text generation
     
-    Natural Language Processing (NLP), :snake: Python packages keras, pandas, numpy, sklearn
+    Natural Language Processing (NLP), :shamrock: Python packages keras, pandas, numpy, sklearn
     
 14) Credit card Fraud Detection using machine learning
     
     Modelling techniques – Nearmiss technique for undersampling data, SMOTE for oversampling, Linear model: Logistic Regression, Ensemble technique: Random Forest, Non Linear Algorithms: Support Vector Machine, Decision Tree and k-Nearest Neighbour
     
-    :snake: Python packages : sklearn/imblearn, seaborn, matplotlib
+    :shamrock: Python packages : sklearn/imblearn, seaborn, matplotlib
     
 16) dgher`rgb(9, 105, 218)`
     
