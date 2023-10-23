@@ -30,12 +30,22 @@ Tools  : Excel, Power BI, Python, SQL
     
     :shamrock: Python packages : sklearn/imblearn, seaborn, matplotlib
     
-16) dgher`rgb(9, 105, 218)`
+16) Predicting and Explaining Caravan Policy Ownership – Machine learning solution reducing cost of internal marketing
     
-
-    
-
-    
+    - Examine and clean 86 attributes and 5000 records of insurance product and sociodemographic data
+      
+    - Perform statistical analysis to understand customer behaviour
+      
+    - Feature engineering and fit model using algorithms Naïve Bayes, Random Forest, Decision Tree, Logistic Regression, K Nearest Neighbours
+      
+    - Conclude best model be Naïve Bayes to predict Caravan policy
+      
+    - Perform market basket analysis to describe Caravan customer using Apriori and Fpgrowth algorithms
+      
+    - Write separate reports to technical team explaining modeling methodology and to product team (non-technical audience)
+      
+    - Tech Stack - :shamrock: Python - scikit learn, weka, pandas,numpy, pyplot, seaborn, SAS, Tableau
+   
 19) wer
 
 
