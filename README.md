@@ -22,13 +22,13 @@ Tools  : Excel, Power BI, Python, SQL
       
 12) Many to one LSTM for sentiment Analysis (classifying movie reviews) and text generation
     
-    Natural Language Processing (NLP), Python packages keras, pandas, numpy, sklearn
+    Natural Language Processing (NLP), :vampire_woman: Python packages keras, pandas, numpy, sklearn
     
 14) Credit card Fraud Detection using machine learning
     
     Modelling techniques – Nearmiss technique for undersampling data, SMOTE for oversampling, Linear model: Logistic Regression, Ensemble technique: Random Forest, Non Linear Algorithms: Support Vector Machine, Decision Tree and k-Nearest Neighbour
     
-    Python packages : sklearn/imblearn, seaborn, matplotlib
+    :vampire_woman: Python packages : sklearn/imblearn, seaborn, matplotlib
     
 16) dgher`rgb(9, 105, 218)`
     
