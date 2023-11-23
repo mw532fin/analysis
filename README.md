@@ -44,7 +44,7 @@ Tools  : Excel, Power BI, Python, SQL
       
     - Tech Stack - :shamrock: Python - scikit learn, weka, pandas,numpy, pyplot, seaborn, SAS, Tableau
    
-19) [Third party Automobile Insurance claims analysis using R](https://github.com/mw532fin/analysis/blob/24b8764a3dca5d3a585e4f267be5ad3848b3865d/R/R_Prj_001_Thirdparty_Auto_Insurance_claims_Analysis.html) – Insurance risk factors identification, GLM
+19) [Third party Automobile Insurance claims analysis using R](https://github.com/mw532fin/analysis/blob/24b8764a3dca5d3a585e4f267be5ad3848b3865d/R/R_Prj_001_Thirdparty_Auto_Insurance_claims_Analysis.html) [Report](https://github.com/mw532fin/analysis/blob/2bbe6b30b3081fb236e11547d21c2cc059927909/R/R_Prj_001_Thirdparty_Auto_Insurance_claims_Analysis_Rpt.pdf) – Insurance risk factors identification, GLM
 
 20) [Data Visualisation on map](https://github.com/mw532fin/analysis/blob/9b6b4561a07155863694f3a22864c2e518c4480b/Python/Python_Data_Visualisation_on_world_map.pdf) - :shamrock: Python packages : folium 
 
