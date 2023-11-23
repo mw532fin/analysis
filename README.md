@@ -24,7 +24,7 @@ Tools  : Excel, Power BI, Python, SQL
     
     Natural Language Processing (NLP), :shamrock: Python packages keras, pandas, numpy, sklearn
     
-14) [Credit card Fraud Detection using machine learning] (https://github.com/mw532fin/analysis/blob/5d5b9e945ca154f5671a4ef46d63b00bdc65c173/Python/Python_Credit_Card_Fraud_Detection.ipynb)
+14) [Credit card Fraud Detection using machine learning](https://github.com/mw532fin/analysis/blob/5d5b9e945ca154f5671a4ef46d63b00bdc65c173/Python/Python_Credit_Card_Fraud_Detection.ipynb)
     
     Modelling techniques – Nearmiss technique for undersampling data, SMOTE for oversampling, Linear model: Logistic Regression, Ensemble technique: Random Forest, Non Linear Algorithms: Support Vector Machine, Decision Tree and k-Nearest Neighbour
     
