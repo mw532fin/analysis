@@ -11,7 +11,7 @@ Tools/Languages  : Excel, Power BI, Tableau, Python, R, SQL, SAS
    
    Use cases : How efficient is Call centre? / Global Expansion of business / Unit price per target profit / Sales report / Descriptive Statistics of Student marks
    
-7) Tableau   - [COVID19 dashboard](https://github.com/mw532fin/analysis/blob/a92d092b0d707932a2a9d8f3bd61a6fd1e8acd83/Tableau/covid19%20dashboard.pdf)  [Global Reinsurance Indicators](https://github.com/mw532fin/analysis/blob/fb559fe354ce78c68f5672a4d67a0eaf35c951c3/Tableau/Tbl_prj1_Insurance%20Indicators%20Dashboard.pdf) 
+7) Tableau   - [COVID19 dashboard](https://github.com/mw532fin/analysis/blob/a92d092b0d707932a2a9d8f3bd61a6fd1e8acd83/Tableau/covid19%20dashboard.pdf) , [Global Reinsurance Indicators](https://github.com/mw532fin/analysis/blob/fb559fe354ce78c68f5672a4d67a0eaf35c951c3/Tableau/Tbl_prj1_Insurance%20Indicators%20Dashboard.pdf) 
 
 9) Power BI - [COVID19 dashboard](https://github.com/mw532fin/analysis/blob/75decea9c5469790cce7ff486f267b7998044465/PowerBI/covid19%20dashboard.pdf)
 
