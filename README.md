@@ -11,7 +11,9 @@ Tools/Languages  : Excel, Power BI, Tableau, Python, R, SQL, SAS
    
    Use cases : How efficient is Call centre? / Global Expansion of business / Unit price per target profit / Sales report / Descriptive Statistics of Student marks
    
-7) COVID19 dashboard - [Tableau](https://github.com/mw532fin/analysis/blob/a92d092b0d707932a2a9d8f3bd61a6fd1e8acd83/Tableau/covid19%20dashboard.pdf)  [Power BI](https://github.com/mw532fin/analysis/blob/75decea9c5469790cce7ff486f267b7998044465/PowerBI/covid19%20dashboard.pdf)
+7) Tableau   - [COVID19 dashboard](https://github.com/mw532fin/analysis/blob/a92d092b0d707932a2a9d8f3bd61a6fd1e8acd83/Tableau/covid19%20dashboard.pdf)  [Global Reinsurance Indicators] 
+
+9) Power BI - [COVID19 dashboard] (https://github.com/mw532fin/analysis/blob/75decea9c5469790cce7ff486f267b7998044465/PowerBI/covid19%20dashboard.pdf)
 
 9) [Library Management System for Stanford](https://github.com/mw532fin/analysis/blob/da755f631d0957a78ada89f592835aa6c526a8db/Business%20Analysis/BA_Project1_Stanford_Library.pdf) ( :unicorn: Business analysis, ER diagram, dataflow diagram, wireframes, ...)
     
